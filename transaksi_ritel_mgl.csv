@@ -1,0 +1,3846 @@
+tanggal,kode,nama,jumlah,harga,area
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,1,22300,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,1,22300,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+11-04-2020,,Sabun Cuci Piring,,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-17,Obat Batuk,3,5000,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,4,22300,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,2,22300,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+20-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+12-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+13-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+13-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+13-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+12-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+13-04-2020,Item-13,Pisau Cukur,1,6500,MGL
+13-04-2020,Item-14,Teh Celup Melati,4,7800,MGL
+13-04-2020,Item-13,Pisau Cukur,1,6500,MGL
+13-04-2020,Item-14,Teh Celup Melati,4,7800,MGL
+13-04-2020,Item-14,Teh Celup Melati,5,7800,MGL
+13-04-2020,Item-14,Teh Celup Melati,10,7800,MGL
+13-04-2020,Item-14,Teh Celup Melati,7,7800,MGL
+13-04-2020,Item-14,Teh Celup Melati,5,7800,MGL
+13-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+14-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+13-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+13-04-2020,Item-13,Pisau Cukur,1,6500,MGL
+13-04-2020,Item-14,Teh Celup Melati,3,7800,MGL
+13-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+13-04-2020,Item-13,Pisau Cukur,1,6500,MGL
+14-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+13-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+13-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+13-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+13-04-2020,Item-13,Pisau Cukur,2,6500,MGL
+14-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+13-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+13-04-2020,Item-13,Pisau Cukur,3,6500,MGL
+13-04-2020,Item-14,Teh Celup Melati,3,7800,MGL
+14-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+14-04-2020,Item-14,Teh Celup Melati,4,7800,MGL
+14-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+14-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+21-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+21-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+14-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+21-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+14-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+14-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+16-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+16-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+10-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+10-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-04-2020,,,4,,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+14-05-2020,Item-04,Kopi Instant,1,5200,MGL
+12-04-2020,Item-08,Vitamin C,4,2000,MGL
+12-04-2020,Item-08,Vitamin C,4,2000,MGL
+12-04-2020,Item-08,Vitamin C,2,2000,MGL
+12-04-2020,Item-08,Vitamin C,3,2000,MGL
+12-04-2020,Item-08,Vitamin C,4,2000,MGL
+13-04-2020,Item-08,Vitamin C,1,2000,MGL
+13-04-2020,Item-08,Vitamin C,4,2000,MGL
+13-04-2020,Item-08,Vitamin C,4,2000,MGL
+13-04-2020,Item-08,Vitamin C,1,2000,MGL
+19-04-2020,Item-08,Vitamin C,1,2000,MGL
+12-04-2020,Item-09,Roti Tawar,3,12500,MGL
+12-04-2020,Item-09,Roti Tawar,2,12500,MGL
+12-04-2020,Item-09,Roti Tawar,4,12500,MGL
+12-04-2020,Item-09,Roti Tawar,2,12500,MGL
+12-04-2020,Item-09,Roti Tawar,1,12500,MGL
+17-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+17-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+17-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+17-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+18-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+18-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+19-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+19-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+21-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+21-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+23-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+14-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+14-04-2020,Item-13,Pisau Cukur,4,6500,MGL
+14-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+14-04-2020,Item-14,Teh Celup Melati,3,7800,MGL
+14-04-2020,Item-14,Teh Celup Melati,2,7800,MGL
+14-04-2020,Item-14,Teh Celup Melati,4,7800,MGL
+14-04-2020,Item-13,Pisau Cukur,4,6500,MGL
+14-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+14-04-2020,Item-14,Teh Celup Melati,4,7800,MGL
+14-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+,Item-03,,3,,MGL
+15-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+15-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+16-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+15-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+15-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+15-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+15-04-2020,Item-09,Roti Tawar,3,12500,MGL
+15-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+16-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+16-04-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+16-04-2020,Item-10,Biskuit Waver Kaleng,2,24000,MGL
+16-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+16-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+15-04-2020,Item-09,Roti Tawar,2,12500,MGL
+16-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+16-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+15-04-2020,Item-09,Roti Tawar,2,12500,MGL
+16-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+15-04-2020,Item-09,Roti Tawar,1,12500,MGL
+16-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+15-04-2020,Item-09,Roti Tawar,2,12500,MGL
+17-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+14-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+17-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+16-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+17-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+16-04-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,1,14000,MGL
+17-04-2020,Item-17,Obat Batuk,2,5000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+,Item-11,,4,,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,2,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,2,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+20-04-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+20-04-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+21-04-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+22-04-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+,Item-27,,,,MGL
+14-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+14-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+14-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+14-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+14-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+14-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+15-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+15-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+15-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+15-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+15-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+15-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+15-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+16-04-2020,Item-04,Kopi Instant,4,5200,MGL
+16-04-2020,Item-04,Kopi Instant,3,5200,MGL
+16-04-2020,Item-04,Kopi Instant,4,5200,MGL
+16-04-2020,Item-04,Kopi Instant,2,5200,MGL
+16-04-2020,Item-04,Kopi Instant,4,5200,MGL
+16-04-2020,Item-04,Kopi Instant,3,5200,MGL
+16-04-2020,Item-04,Kopi Instant,1,5200,MGL
+16-04-2020,Item-04,Kopi Instant,4,5200,MGL
+17-04-2020,Item-04,Kopi Instant,1,5200,MGL
+17-04-2020,Item-04,Kopi Instant,3,5200,MGL
+,,Kopi Instant,4,5200,MGL
+17-04-2020,Item-04,Kopi Instant,1,5200,MGL
+16-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+16-04-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+16-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+16-04-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+16-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+16-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+16-04-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+17-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+17-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+17-04-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+17-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+17-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+17-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+17-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+17-04-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+17-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+17-04-2020,Item-17,Obat Batuk,1,5000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+17-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,1,14000,MGL
+17-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+17-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+18-04-2020,Item-19,Obat Diare,3,5000,MGL
+18-04-2020,Item-17,Obat Batuk,4,5000,MGL
+18-04-2020,Item-18,Telur Ayam Negeri,4,1700,MGL
+18-04-2020,Item-19,Obat Diare,1,5000,MGL
+18-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+18-04-2020,Item-17,Obat Batuk,4,5000,MGL
+18-04-2020,Item-17,Obat Batuk,2,5000,MGL
+18-04-2020,Item-18,Telur Ayam Negeri,3,1700,MGL
+18-04-2020,Item-10,Biskuit Waver Kaleng,2,24000,MGL
+18-04-2020,Item-17,Obat Batuk,2,5000,MGL
+18-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+18-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+18-04-2020,Item-17,Obat Batuk,3,5000,MGL
+18-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+18-04-2020,Item-17,Obat Batuk,1,5000,MGL
+18-04-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+18-04-2020,Item-17,Obat Batuk,3,5000,MGL
+18-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+18-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+19-04-2020,Item-17,Obat Batuk,4,5000,MGL
+19-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+19-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+19-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+19-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+19-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+19-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+19-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+19-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+19-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+20-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+20-04-2020,Item-17,Obat Batuk,1,5000,MGL
+19-04-2020,Item-01,Batere AA,4,12000,MGL
+19-04-2020,Item-08,Vitamin C,3,2000,MGL
+20-04-2020,Item-14,Teh Celup Melati,4,7800,MGL
+20-04-2020,Item-17,Obat Batuk,1,5000,MGL
+17-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+17-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+17-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+17-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+19-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+19-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+19-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+19-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+,Item-05,Mi Goreng Instant,,,MGL
+19-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+19-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+19-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+19-04-2020,Item-01,Batere AA,1,12000,MGL
+20-04-2020,Item-01,Batere AA,1,12000,MGL
+17-04-2020,Item-04,Kopi Instant,2,5200,MGL
+17-04-2020,Item-04,Kopi Instant,1,5200,MGL
+17-04-2020,Item-04,Kopi Instant,3,5200,MGL
+17-04-2020,Item-04,Kopi Instant,4,5200,MGL
+17-04-2020,Item-04,Kopi Instant,1,5200,MGL
+19-04-2020,Item-08,Vitamin C,3,2000,MGL
+19-04-2020,Item-08,Vitamin C,4,2000,MGL
+19-04-2020,Item-08,Vitamin C,4,2000,MGL
+19-04-2020,Item-08,Vitamin C,4,2000,MGL
+19-04-2020,Item-08,Vitamin C,3,2000,MGL
+19-04-2020,Item-08,Vitamin C,4,2000,MGL
+19-04-2020,Item-08,Vitamin C,2,2000,MGL
+19-04-2020,Item-08,Vitamin C,3,2000,MGL
+19-04-2020,Item-08,Vitamin C,4,2000,MGL
+19-04-2020,Item-08,Vitamin C,3,2000,MGL
+19-04-2020,Item-08,Vitamin C,4,2000,MGL
+19-04-2020,Item-08,Vitamin C,2,2000,MGL
+19-04-2020,Item-08,Vitamin C,2,2000,MGL
+19-04-2020,Item-08,Vitamin C,2,2000,MGL
+19-04-2020,Item-08,Vitamin C,3,2000,MGL
+19-04-2020,Item-08,Vitamin C,2,2000,MGL
+18-04-2020,Item-09,Roti Tawar,2,12500,MGL
+18-04-2020,Item-09,Roti Tawar,2,12500,MGL
+18-04-2020,Item-09,Roti Tawar,4,12500,MGL
+18-04-2020,Item-09,Roti Tawar,3,12500,MGL
+19-04-2020,Item-09,Roti Tawar,2,12500,MGL
+19-04-2020,Item-09,Roti Tawar,4,12500,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+26-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+27-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+27-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+28-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+10-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+12-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+13-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+14-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+15-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+16-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+20-04-2020,Item-14,Teh Celup Melati,4,7800,MGL
+20-04-2020,Item-17,Obat Batuk,3,5000,MGL
+20-04-2020,Item-18,Telur Ayam Negeri,4,1700,MGL
+20-04-2020,Item-17,Obat Batuk,2,5000,MGL
+20-04-2020,Item-18,Telur Ayam Negeri,3,1700,MGL
+20-04-2020,Item-18,Telur Ayam Negeri,2,1700,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+20-04-2020,Item-14,Teh Celup Melati,2,7800,MGL
+20-04-2020,Item-17,Obat Batuk,1,5000,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+20-04-2020,Item-17,Obat Batuk,1,5000,MGL
+20-04-2020,Item-18,Telur Ayam Negeri,2,1700,MGL
+20-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+20-04-2020,Item-17,Obat Batuk,4,5000,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+20-04-2020,Item-14,Teh Celup Melati,2,7800,MGL
+20-04-2020,Item-17,Obat Batuk,3,5000,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+20-04-2020,Item-14,Teh Celup Melati,4,7800,MGL
+20-04-2020,Item-17,Obat Batuk,2,5000,MGL
+20-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+20-04-2020,Item-17,Obat Batuk,4,5000,MGL
+20-04-2020,Item-17,Obat Batuk,3,5000,MGL
+20-04-2020,Item-18,Telur Ayam Negeri,4,1700,MGL
+20-04-2020,Item-17,Obat Batuk,2,5000,MGL
+20-04-2020,Item-18,Telur Ayam Negeri,1,1700,MGL
+20-04-2020,Item-14,Teh Celup Melati,1,7800,MGL
+20-04-2020,Item-17,Obat Batuk,2,5000,MGL
+20-04-2020,Item-17,Obat Batuk,4,5000,MGL
+20-04-2020,Item-18,Telur Ayam Negeri,4,1700,MGL
+20-04-2020,Item-09,Roti Tawar,2,12500,MGL
+20-04-2020,Item-17,Obat Batuk,1,5000,MGL
+20-04-2020,Item-18,Telur Ayam Negeri,2,1700,MGL
+21-04-2020,Item-15,Ketan Hitam 500 gram,3,18000,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+20-04-2020,Item-09,Roti Tawar,3,12500,MGL
+21-04-2020,Item-09,Roti Tawar,2,12500,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+21-04-2020,Item-09,Roti Tawar,2,12500,MGL
+21-04-2020,Item-09,Roti Tawar,3,12500,MGL
+21-04-2020,Item-15,Ketan Hitam 500 gram,4,18000,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+21-04-2020,Item-09,Roti Tawar,2,12500,MGL
+22-04-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+21-04-2020,Item-09,Roti Tawar,3,12500,MGL
+22-04-2020,Item-15,Ketan Hitam 500 gram,3,18000,MGL
+22-04-2020,Item-15,Ketan Hitam 500 gram,2,18000,MGL
+21-04-2020,Item-09,Roti Tawar,2,12500,MGL
+22-04-2020,Item-15,Ketan Hitam 500 gram,2,18000,MGL
+22-04-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+21-04-2020,Item-09,Roti Tawar,4,12500,MGL
+23-04-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+20-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+23-04-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+22-04-2020,Item-15,Ketan Hitam 500 gram,2,18000,MGL
+21-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+,,Susu Bubuk 195g,,45000,MGL
+22-04-2020,Item-15,Ketan Hitam 500 gram,1,18000,MGL
+22-04-2020,Item-15,Ketan Hitam 500 gram,2,18000,MGL
+22-04-2020,Item-15,Ketan Hitam 500 gram,1,18000,MGL
+22-04-2020,Item-15,Ketan Hitam 500 gram,2,18000,MGL
+28-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+28-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+28-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+29-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+29-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+29-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+29-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+29-04-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+29-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+21-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+21-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+21-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+21-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+21-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+22-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+22-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+22-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+22-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+22-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+22-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+22-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+22-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+20-04-2020,Item-01,Batere AA,4,12000,MGL
+20-04-2020,Item-01,Batere AA,4,12000,MGL
+21-04-2020,Item-01,Batere AA,4,12000,MGL
+22-04-2020,Item-01,Batere AA,4,12000,MGL
+22-04-2020,Item-01,Batere AA,2,12000,MGL
+22-04-2020,Item-01,Batere AA,4,12000,MGL
+03-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+03-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+03-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+03-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+03-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+03-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+03-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+03-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+03-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+04-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+04-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+30-04-2020,Item-01,Batere AA,2,12000,MGL
+04-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+04-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+05-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+22-04-2020,Item-15,Ketan Hitam 500 gram,1,18000,MGL
+21-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+23-04-2020,Item-10,Biskuit Waver Kaleng,2,24000,MGL
+23-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+21-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+23-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+23-04-2020,Item-13,Pisau Cukur,4,6500,MGL
+23-04-2020,Item-10,Biskuit Waver Kaleng,2,24000,MGL
+22-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+23-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+23-04-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+22-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+23-04-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+,Item-10,,,24000,MGL
+22-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+24-04-2020,Item-13,Pisau Cukur,4,6500,MGL
+22-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+23-04-2020,Item-09,Roti Tawar,3,12500,MGL
+24-04-2020,Item-16,Balsem Putih 20 gram,1,22300,MGL
+24-04-2020,Item-16,Balsem Putih 20 gram,2,22300,MGL
+24-04-2020,,,,6500,MGL
+23-04-2020,Item-09,Roti Tawar,3,12500,MGL
+24-04-2020,Item-13,Pisau Cukur,1,6500,MGL
+23-04-2020,Item-09,Roti Tawar,2,12500,MGL
+24-04-2020,Item-13,Pisau Cukur,4,6500,MGL
+22-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+23-04-2020,Item-09,Roti Tawar,4,12500,MGL
+25-04-2020,Item-17,Obat Batuk,1,5000,MGL
+22-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+23-04-2020,Item-09,Roti Tawar,4,12500,MGL
+25-04-2020,Item-17,Obat Batuk,1,5000,MGL
+24-04-2020,Item-09,Roti Tawar,2,12500,MGL
+22-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+25-04-2020,Item-17,Obat Batuk,4,5000,MGL
+25-04-2020,Item-12,Beras Pulen 5 kg,2,63000,MGL
+23-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+25-04-2020,Item-12,Beras Pulen 5 kg,3,63000,MGL
+25-04-2020,Item-12,Beras Pulen 5 kg,4,63000,MGL
+23-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+25-04-2020,Item-12,Beras Pulen 5 kg,4,63000,MGL
+25-04-2020,Item-16,Balsem Putih 20 gram,2,22300,MGL
+23-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+25-04-2020,Item-17,Obat Batuk,1,5000,MGL
+23-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+24-04-2020,Item-09,Roti Tawar,4,12500,MGL
+23-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+25-04-2020,Item-17,Obat Batuk,2,5000,MGL
+25-04-2020,Item-12,Beras Pulen 5 kg,4,63000,MGL
+23-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+24-04-2020,Item-09,Roti Tawar,4,12500,MGL
+24-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+25-04-2020,Item-12,Beras Pulen 5 kg,3,63000,MGL
+24-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+24-04-2020,Item-09,Roti Tawar,1,12500,MGL
+22-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+25-04-2020,Item-12,Beras Pulen 5 kg,3,63000,MGL
+23-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+25-04-2020,Item-12,Beras Pulen 5 kg,2,63000,MGL
+19-04-2020,Item-27,Bedak Bayi,20,25000,MGL
+05-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+05-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+06-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+06-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+06-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+06-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+06-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+06-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+07-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+24-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+24-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+24-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+24-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+24-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+24-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+24-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+24-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+24-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+23-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+23-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+23-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+23-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+23-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+23-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+23-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+23-04-2020,Item-01,Batere AA,2,12000,MGL
+23-04-2020,Item-01,Batere AA,2,12000,MGL
+24-04-2020,Item-01,Batere AA,1,12000,MGL
+25-04-2020,Item-01,Batere AA,3,12000,MGL
+25-04-2020,Item-01,Batere AA,1,12000,MGL
+25-04-2020,Item-01,Batere AA,4,12000,MGL
+25-04-2020,Item-01,Batere AA,4,12000,MGL
+25-04-2020,Item-01,Batere AA,2,12000,MGL
+24-04-2020,Item-09,Roti Tawar,3,12500,MGL
+13-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+13-05-2020,null,Pampers Bayi Size M,null,41000,MGL
+13-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+14-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+14-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+14-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+14-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+14-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+14-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+22-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+24-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+25-04-2020,Item-17,Obat Batuk,1,5000,MGL
+25-04-2020,Item-12,Beras Pulen 5 kg,2,63000,MGL
+24-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+24-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+25-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+25-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+25-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+14-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+14-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+25-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+15-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+25-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+15-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+15-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+15-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+15-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+25-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+15-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+16-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+16-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+17-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+null,Item-20,Pampers Bayi Size M,2,41000,MGL
+25-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+17-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+17-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+17-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+25-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+18-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+18-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+26-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+20-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+20-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+26-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+26-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+20-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+21-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+26-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+21-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+21-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+21-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+21-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+26-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+25-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+26-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+26-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+26-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+26-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+26-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+26-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+26-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+26-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+26-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+26-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+26-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+26-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+26-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+26-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+27-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+27-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+27-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+27-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+27-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+28-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+28-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+28-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+28-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+28-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+28-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+28-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+28-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+28-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+28-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+26-04-2020,Item-01,Batere AA,4,12000,MGL
+26-04-2020,Item-01,Batere AA,4,12000,MGL
+27-04-2020,Item-01,Batere AA,2,12000,MGL
+27-04-2020,Item-01,Batere AA,1,12000,MGL
+28-04-2020,Item-01,Batere AA,3,12000,MGL
+28-04-2020,Item-01,Batere AA,3,12000,MGL
+29-04-2020,Item-01,Batere AA,2,12000,MGL
+26-04-2020,Item-04,Kopi Instant,2,5200,MGL
+26-04-2020,Item-04,Kopi Instant,3,5200,MGL
+26-04-2020,Item-04,Kopi Instant,3,5200,MGL
+26-04-2020,Item-04,Kopi Instant,1,5200,MGL
+26-04-2020,Item-04,Kopi Instant,4,5200,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+26-04-2020,Item-04,Kopi Instant,4,5200,MGL
+26-04-2020,Item-04,Kopi Instant,2,5200,MGL
+26-04-2020,Item-04,Kopi Instant,2,5200,MGL
+26-04-2020,Item-04,Kopi Instant,3,5200,MGL
+26-04-2020,Item-04,Kopi Instant,3,5200,MGL
+26-04-2020,Item-04,Kopi Instant,3,5200,MGL
+27-04-2020,Item-04,Kopi Instant,3,5200,MGL
+27-04-2020,Item-04,Kopi Instant,1,5200,MGL
+28-04-2020,Item-04,Kopi Instant,3,5200,MGL
+28-04-2020,Item-04,Kopi Instant,2,5200,MGL
+28-04-2020,Item-04,Kopi Instant,1,5200,MGL
+28-04-2020,Item-04,Kopi Instant,1,5200,MGL
+23-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+23-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+23-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+23-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+23-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+30-04-2020,Item-08,Vitamin C,1,2000,MGL
+26-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+30-04-2020,Item-08,Vitamin C,2,2000,MGL
+30-04-2020,Item-08,Vitamin C,2,2000,MGL
+30-04-2020,Item-08,Vitamin C,1,2000,MGL
+26-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+30-04-2020,Item-08,Vitamin C,4,2000,MGL
+27-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+30-04-2020,Item-08,Vitamin C,1,2000,MGL
+27-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+30-04-2020,Item-08,Vitamin C,2,2000,MGL
+28-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+30-04-2020,Item-08,Vitamin C,2,2000,MGL
+28-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+30-04-2020,Item-08,Vitamin C,1,2000,MGL
+30-04-2020,Item-08,Vitamin C,2,2000,MGL
+01-05-2020,Item-08,Vitamin C,1,2000,MGL
+01-05-2020,Item-08,Vitamin C,1,2000,MGL
+28-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+01-05-2020,Item-08,Vitamin C,3,2000,MGL
+28-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+30-04-2020,Item-09,Roti Tawar,3,12500,MGL
+01-05-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+30-04-2020,Item-09,Roti Tawar,1,12500,MGL
+28-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+01-05-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+01-05-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+01-05-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+28-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+01-05-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+01-05-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+01-05-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+01-05-2020,Item-11,Sabun Cuci Piring,1,14000,MGL
+28-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+01-05-2020,Item-09,Roti Tawar,4,12500,MGL
+01-05-2020,Item-09,Roti Tawar,1,12500,MGL
+01-05-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+29-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+01-05-2020,Item-09,Roti Tawar,4,12500,MGL
+01-05-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+29-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+02-05-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+25-04-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+25-04-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+25-04-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+25-04-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+23-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+24-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+25-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+26-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+26-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+26-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+27-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+27-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+29-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+29-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+29-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+29-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+30-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,null,null,3,,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+30-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+30-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+30-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+30-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+30-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+30-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+30-04-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+02-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+29-04-2020,Item-01,Batere AA,1,12000,MGL
+30-04-2020,Item-01,Batere AA,2,12000,MGL
+30-04-2020,Item-01,Batere AA,3,12000,MGL
+30-04-2020,Item-01,Batere AA,1,12000,MGL
+30-04-2020,Item-01,Batere AA,4,12000,MGL
+01-05-2020,Item-01,Batere AA,3,12000,MGL
+01-05-2020,Item-01,Batere AA,3,12000,MGL
+29-04-2020,Item-04,Kopi Instant,3,5200,MGL
+29-04-2020,Item-04,Kopi Instant,2,5200,MGL
+29-04-2020,Item-04,Kopi Instant,2,5200,MGL
+29-04-2020,Item-04,Kopi Instant,3,5200,MGL
+29-04-2020,Item-04,Kopi Instant,4,5200,MGL
+29-04-2020,Item-04,Kopi Instant,3,5200,MGL
+01-05-2020,Item-09,Roti Tawar,1,12500,MGL
+01-05-2020,Item-09,Roti Tawar,4,12500,MGL
+01-05-2020,Item-09,Roti Tawar,2,12500,MGL
+01-05-2020,Item-09,Roti Tawar,1,12500,MGL
+01-05-2020,Item-09,Roti Tawar,3,12500,MGL
+02-05-2020,Item-09,Roti Tawar,1,12500,MGL
+02-05-2020,Item-09,Roti Tawar,3,12500,MGL
+28-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+28-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+29-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+29-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+29-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+29-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+29-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+29-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+29-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+02-05-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+29-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+02-05-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+02-05-2020,Item-10,Biskuit Waver Kaleng,2,24000,MGL
+29-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+02-05-2020,Item-10,Biskuit Waver Kaleng,2,24000,MGL
+02-05-2020,Item-10,Biskuit Waver Kaleng,2,24000,MGL
+02-05-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+29-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+02-05-2020,Item-10,Biskuit Waver Kaleng,1,24000,MGL
+02-05-2020,Item-10,Biskuit Waver Kaleng,4,24000,MGL
+02-05-2020,Item-10,Biskuit Waver Kaleng,3,24000,MGL
+29-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+03-05-2020,Item-09,Roti Tawar,1,12500,MGL
+29-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+02-05-2020,Item-09,Roti Tawar,3,12500,MGL
+02-05-2020,Item-09,Roti Tawar,1,12500,MGL
+02-05-2020,Item-09,Roti Tawar,4,12500,MGL
+29-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+29-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+02-05-2020,Item-09,Roti Tawar,1,12500,MGL
+29-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+02-05-2020,Item-09,Roti Tawar,4,12500,MGL
+30-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+02-05-2020,Item-09,Roti Tawar,4,12500,MGL
+02-05-2020,Item-09,Roti Tawar,4,12500,MGL
+30-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+02-05-2020,Item-09,Roti Tawar,2,12500,MGL
+30-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+03-05-2020,Item-09,Roti Tawar,1,12500,MGL
+30-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+03-05-2020,Item-09,Roti Tawar,2,12500,MGL
+03-05-2020,Item-09,Roti Tawar,4,12500,MGL
+30-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+03-05-2020,Item-09,Roti Tawar,1,12500,MGL
+03-05-2020,Item-09,Roti Tawar,4,12500,MGL
+03-05-2020,Item-09,Roti Tawar,2,12500,MGL
+03-05-2020,Item-09,Roti Tawar,3,12500,MGL
+03-05-2020,Item-09,Roti Tawar,1,12500,MGL
+30-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+29-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+29-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+30-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+02-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+02-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+30-05-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+30-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+31-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+01-06-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+02-06-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+02-06-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+28-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+28-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+28-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+28-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+28-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+28-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+29-04-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+29-04-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+29-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+29-04-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+03-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+04-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+04-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+04-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+04-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+05-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+05-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+null,null,null,null,null,MGL
+null,null,null,null,null,MGL
+null,null,null,null,null,MGL
+null,null,null,null,null,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+05-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+05-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+05-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+05-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+05-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+05-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+02-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+02-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+03-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+03-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+03-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+03-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+03-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+03-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+03-05-2020,Item-01,Batere AA,3,12000,MGL
+03-05-2020,Item-01,Batere AA,2,12000,MGL
+05-05-2020,Item-01,Batere AA,1,12000,MGL
+05-05-2020,Item-01,Batere AA,2,12000,MGL
+05-05-2020,Item-01,Batere AA,3,12000,MGL
+06-05-2020,Item-01,Batere AA,1,12000,MGL
+03-05-2020,Item-04,Kopi Instant,4,5200,MGL
+03-05-2020,Item-04,Kopi Instant,2,5200,MGL
+03-05-2020,Item-04,Kopi Instant,3,5200,MGL
+03-05-2020,Item-04,Kopi Instant,3,5200,MGL
+03-05-2020,Item-04,Kopi Instant,2,5200,MGL
+03-05-2020,Item-04,Kopi Instant,2,5200,MGL
+03-05-2020,Item-04,Kopi Instant,4,5200,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+03-05-2020,Item-04,Kopi Instant,1,5200,MGL
+03-05-2020,Item-04,Kopi Instant,4,5200,MGL
+04-05-2020,Item-04,Kopi Instant,3,5200,MGL
+04-05-2020,Item-04,Kopi Instant,2,5200,MGL
+04-05-2020,Item-04,Kopi Instant,2,5200,MGL
+04-05-2020,Item-04,Kopi Instant,4,5200,MGL
+05-05-2020,Item-04,Kopi Instant,1,5200,MGL
+05-05-2020,Item-04,Kopi Instant,1,5200,MGL
+05-05-2020,Item-04,Kopi Instant,4,5200,MGL
+30-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+30-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+01-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+01-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+01-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+01-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+07-05-2020,Item-08,Vitamin C,4,2000,MGL
+08-05-2020,Item-08,Vitamin C,2,2000,MGL
+04-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+08-05-2020,Item-08,Vitamin C,1,2000,MGL
+04-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+08-05-2020,Item-08,Vitamin C,4,2000,MGL
+08-05-2020,Item-08,Vitamin C,3,2000,MGL
+04-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+08-05-2020,Item-08,Vitamin C,1,2000,MGL
+04-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+08-05-2020,Item-08,Vitamin C,4,2000,MGL
+05-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+08-05-2020,Item-08,Vitamin C,3,2000,MGL
+08-05-2020,Item-08,Vitamin C,1,2000,MGL
+05-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+05-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+05-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+05-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+05-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+05-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+05-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+06-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+06-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+05-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+06-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+06-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+05-05-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+06-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+06-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+05-05-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+06-05-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+06-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+06-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+06-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+06-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+06-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+06-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+06-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+07-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+09-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+09-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+09-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+09-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+09-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+06-05-2020,Item-01,Batere AA,2,12000,MGL
+06-05-2020,Item-01,Batere AA,4,12000,MGL
+07-05-2020,Item-01,Batere AA,2,12000,MGL
+07-05-2020,Item-01,Batere AA,4,12000,MGL
+07-05-2020,Item-01,Batere AA,3,12000,MGL
+07-05-2020,Item-01,Batere AA,1,12000,MGL
+07-05-2020,Item-01,Batere AA,4,12000,MGL
+09-05-2020,Item-01,Batere AA,4,12000,MGL
+06-05-2020,Item-04,Kopi Instant,4,5200,MGL
+06-05-2020,Item-04,Kopi Instant,1,5200,MGL
+06-05-2020,Item-04,Kopi Instant,2,5200,MGL
+06-05-2020,Item-04,Kopi Instant,1,5200,MGL
+06-05-2020,Item-04,Kopi Instant,1,5200,MGL
+06-05-2020,Item-04,Kopi Instant,2,5200,MGL
+07-05-2020,Item-04,Kopi Instant,1,5200,MGL
+03-06-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+03-06-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+03-06-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+04-06-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+05-06-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+05-06-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+05-06-2020,Item-20,Pampers Bayi Size M,2,41000,MGL
+06-06-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+25-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+27-04-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+27-04-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-05-2020,Item-08,Vitamin C,3,2000,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+11-05-2020,Item-09,Roti Tawar,2,12500,MGL
+12-05-2020,Item-09,Roti Tawar,2,12500,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+12-05-2020,Item-09,Roti Tawar,2,12500,MGL
+12-05-2020,Item-09,Roti Tawar,1,12500,MGL
+07-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+12-05-2020,Item-09,Roti Tawar,2,12500,MGL
+30-04-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+20-04-2020,Item-27,Bedak Bayi,19,25000,MGL
+08-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+09-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+06-06-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+09-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+09-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+07-06-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+09-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+10-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+08-06-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+10-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+10-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+08-06-2020,Item-20,Pampers Bayi Size M,1,41000,MGL
+10-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+08-06-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+11-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+,,,,,MGL
+,,,,,MGL
+,,,,,MGL
+null,null,null,null,null,MGL
+11-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+11-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+11-06-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+09-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+10-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+11-06-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+14-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+20-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+10-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+11-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+11-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+09-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+10-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+10-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+10-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+10-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+10-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+10-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+11-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+11-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+11-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+10-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+10-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+10-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+10-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+10-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+10-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+10-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+10-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+11-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+11-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+11-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+11-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+11-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+11-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+11-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+11-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+12-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+10-05-2020,Item-01,Batere AA,1,12000,MGL
+10-05-2020,Item-01,Batere AA,4,12000,MGL
+10-05-2020,Item-01,Batere AA,2,12000,MGL
+10-05-2020,Item-01,Batere AA,2,12000,MGL
+11-05-2020,Item-01,Batere AA,3,12000,MGL
+12-05-2020,Item-01,Batere AA,2,12000,MGL
+12-05-2020,Item-01,Batere AA,3,12000,MGL
+14-05-2020,Item-01,Batere AA,2,12000,MGL
+13-05-2020,Item-04,Kopi Instant,1,5200,MGL
+13-05-2020,Item-04,Kopi Instant,2,5200,MGL
+13-05-2020,Item-04,Kopi Instant,4,5200,MGL
+14-05-2020,Item-04,Kopi Instant,3,5200,MGL
+14-05-2020,Item-04,Kopi Instant,2,5200,MGL
+14-05-2020,Item-04,Kopi Instant,4,5200,MGL
+14-05-2020,Item-04,Kopi Instant,3,5200,MGL
+16-06-2020,Item-20,Pampers Bayi Size M,4,41000,MGL
+21-06-2020,Item-20,Pampers Bayi Size M,3,41000,MGL
+03-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+13-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+13-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+14-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+14-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+14-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+14-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+15-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+16-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+17-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+17-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+11-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+12-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+12-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+12-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+12-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+13-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+13-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+13-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+14-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+14-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+14-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+14-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+14-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+14-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+14-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+15-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+15-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+15-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+15-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+16-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+18-05-2020,Item-08,Vitamin C,3,2000,MGL
+16-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+17-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+19-05-2020,Item-08,Vitamin C,3,2000,MGL
+17-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+19-05-2020,Item-08,Vitamin C,3,2000,MGL
+17-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+19-05-2020,Item-08,Vitamin C,1,2000,MGL
+17-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+17-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+18-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+18-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+17-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+18-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+18-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+14-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+14-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+14-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+14-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+14-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+14-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+15-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+15-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+15-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+15-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+15-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+15-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+16-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+16-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+16-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+17-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+18-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+18-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+18-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+19-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+19-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+19-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+19-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+15-05-2020,Item-01,Batere AA,3,12000,MGL
+15-05-2020,Item-01,Batere AA,4,12000,MGL
+16-05-2020,Item-01,Batere AA,1,12000,MGL
+17-05-2020,Item-01,Batere AA,1,12000,MGL
+17-05-2020,Item-01,Batere AA,1,12000,MGL
+18-05-2020,Item-01,Batere AA,3,12000,MGL
+18-05-2020,Item-01,Batere AA,1,12000,MGL
+14-05-2020,Item-04,Kopi Instant,1,5200,MGL
+14-05-2020,Item-04,Kopi Instant,4,5200,MGL
+14-05-2020,Item-04,Kopi Instant,2,5200,MGL
+14-05-2020,Item-04,Kopi Instant,4,5200,MGL
+15-05-2020,Item-04,Kopi Instant,3,5200,MGL
+15-05-2020,Item-04,Kopi Instant,3,5200,MGL
+15-05-2020,Item-04,Kopi Instant,1,5200,MGL
+15-05-2020,Item-04,Kopi Instant,2,5200,MGL
+15-05-2020,Item-04,Kopi Instant,2,5200,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+15-05-2020,Item-04,Kopi Instant,4,5200,MGL
+16-05-2020,Item-04,Kopi Instant,1,5200,MGL
+16-05-2020,Item-04,Kopi Instant,2,5200,MGL
+17-05-2020,Item-04,Kopi Instant,2,5200,MGL
+17-05-2020,Item-04,Kopi Instant,2,5200,MGL
+17-05-2020,Item-04,Kopi Instant,2,5200,MGL
+17-05-2020,Item-04,Kopi Instant,2,5200,MGL
+17-05-2020,Item-04,Kopi Instant,2,5200,MGL
+18-05-2020,Item-04,Kopi Instant,1,5200,MGL
+18-05-2020,Item-04,Kopi Instant,1,5200,MGL
+18-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+19-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+21-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+30-04-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+30-04-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+30-04-2020,Item-26,Susu Bubuk 195g,12,45000,MGL
+30-04-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+18-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+18-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+18-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+18-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+19-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+19-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+19-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+20-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+20-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+21-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+21-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+21-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+21-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+21-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+23-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+23-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+23-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+23-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+24-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+25-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+25-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+26-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+26-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+19-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+19-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+20-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+20-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+20-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+20-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+20-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+20-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+20-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+19-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+20-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+20-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+20-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+20-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+20-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+20-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+20-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+21-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+21-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+20-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+20-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+21-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+21-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+21-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+21-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+21-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+21-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+21-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+22-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+22-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+25-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+24-05-2020,Item-01,Batere AA,3,12000,MGL
+25-05-2020,Item-01,Batere AA,2,12000,MGL
+26-05-2020,Item-01,Batere AA,1,12000,MGL
+20-05-2020,Item-04,Kopi Instant,1,5200,MGL
+20-05-2020,Item-04,Kopi Instant,2,5200,MGL
+20-05-2020,Item-04,Kopi Instant,1,5200,MGL
+21-05-2020,Item-04,Kopi Instant,3,5200,MGL
+21-05-2020,Item-04,Kopi Instant,4,5200,MGL
+21-05-2020,Item-04,Kopi Instant,3,5200,MGL
+21-05-2020,Item-04,Kopi Instant,2,5200,MGL
+21-05-2020,Item-04,Kopi Instant,3,5200,MGL
+23-05-2020,Item-04,Kopi Instant,3,5200,MGL
+23-05-2020,Item-04,Kopi Instant,4,5200,MGL
+23-05-2020,Item-04,Kopi Instant,4,5200,MGL
+23-05-2020,Item-04,Kopi Instant,2,5200,MGL
+23-05-2020,Item-04,Kopi Instant,4,5200,MGL
+23-05-2020,Item-04,Kopi Instant,2,5200,MGL
+24-05-2020,Item-04,Kopi Instant,3,5200,MGL
+25-05-2020,Item-04,Kopi Instant,2,5200,MGL
+26-05-2020,Item-04,Kopi Instant,3,5200,MGL
+26-05-2020,Item-04,Kopi Instant,4,5200,MGL
+26-05-2020,Item-04,Kopi Instant,2,5200,MGL
+19-05-2020,Item-08,Vitamin C,3,2000,MGL
+19-05-2020,Item-08,Vitamin C,1,2000,MGL
+19-05-2020,Item-08,Vitamin C,2,2000,MGL
+19-05-2020,Item-08,Vitamin C,1,2000,MGL
+21-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+21-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+22-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+22-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+22-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+22-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+23-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+23-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+23-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+24-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+24-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+26-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+01-05-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+01-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+27-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+27-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+28-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+29-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+29-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+29-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+29-05-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+30-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+30-05-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+30-05-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+31-05-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+01-06-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+02-06-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+02-06-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+03-06-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+04-06-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+05-06-2020,Item-03,Gula Pasir Putih 1 kg,4,12500,MGL
+05-06-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+06-06-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+26-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+08-06-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+26-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+08-06-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+26-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+11-06-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+15-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+26-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+16-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+27-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+16-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+16-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+27-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+16-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+28-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+16-04-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+16-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+28-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+29-04-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+28-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+03-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+29-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+03-05-2020,Item-06,Sabun Mandi Cair 100 ml,4,10500,MGL
+29-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+03-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+29-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+27-05-2020,Item-01,Batere AA,4,12000,MGL
+29-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+27-05-2020,Item-01,Batere AA,4,12000,MGL
+29-05-2020,Item-01,Batere AA,1,12000,MGL
+27-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+27-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+27-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+28-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+28-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+28-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+29-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+29-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+29-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+29-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+29-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+29-05-2020,Item-01,Batere AA,1,12000,MGL
+29-05-2020,Item-01,Batere AA,2,12000,MGL
+02-06-2020,Item-01,Batere AA,4,12000,MGL
+03-06-2020,Item-01,Batere AA,4,12000,MGL
+06-06-2020,Item-01,Batere AA,2,12000,MGL
+11-06-2020,Item-01,Batere AA,2,12000,MGL
+27-05-2020,Item-04,Kopi Instant,3,5200,MGL
+27-05-2020,Item-04,Kopi Instant,1,5200,MGL
+28-05-2020,Item-04,Kopi Instant,4,5200,MGL
+28-05-2020,Item-04,Kopi Instant,4,5200,MGL
+29-05-2020,Item-04,Kopi Instant,3,5200,MGL
+29-05-2020,Item-04,Kopi Instant,1,5200,MGL
+29-05-2020,Item-04,Kopi Instant,2,5200,MGL
+29-05-2020,Item-04,Kopi Instant,4,5200,MGL
+29-05-2020,Item-04,Kopi Instant,4,5200,MGL
+29-05-2020,Item-04,Kopi Instant,3,5200,MGL
+30-05-2020,Item-04,Kopi Instant,2,5200,MGL
+30-05-2020,Item-04,Kopi Instant,4,5200,MGL
+30-05-2020,Item-04,Kopi Instant,1,5200,MGL
+31-05-2020,Item-04,Kopi Instant,2,5200,MGL
+01-06-2020,Item-04,Kopi Instant,4,5200,MGL
+02-06-2020,Item-04,Kopi Instant,3,5200,MGL
+02-06-2020,Item-04,Kopi Instant,3,5200,MGL
+30-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+30-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+30-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+30-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+30-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+01-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+01-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+01-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+01-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+02-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+02-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+02-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+02-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+03-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+03-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+04-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+04-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+04-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+05-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+05-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+11-06-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+16-06-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+03-05-2020,Item-06,Sabun Mandi Cair 100 ml,3,10500,MGL
+12-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+12-05-2020,Item-06,Sabun Mandi Cair 100 ml,1,10500,MGL
+12-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+12-05-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500,MGL
+28-04-2020,Item-04,Kopi Instant,2,5200,MGL
+28-04-2020,Item-04,Kopi Instant,3,5200,MGL
+28-04-2020,Item-04,Kopi Instant,1,5200,MGL
+28-04-2020,Item-04,Kopi Instant,2,5200,MGL
+28-04-2020,Item-04,Kopi Instant,2,5200,MGL
+28-04-2020,Item-04,Kopi Instant,1,5200,MGL
+29-04-2020,Item-04,Kopi Instant,1,5200,MGL
+29-04-2020,Item-04,Kopi Instant,2,5200,MGL
+29-04-2020,Item-04,Kopi Instant,3,5200,MGL
+29-04-2020,Item-04,Kopi Instant,3,5200,MGL
+05-05-2020,Item-04,Kopi Instant,3,5200,MGL
+05-05-2020,Item-04,Kopi Instant,1,5200,MGL
+05-05-2020,Item-04,Kopi Instant,2,5200,MGL
+05-05-2020,Item-04,Kopi Instant,3,5200,MGL
+05-05-2020,Item-04,Kopi Instant,2,5200,MGL
+06-05-2020,Item-04,Kopi Instant,1,5200,MGL
+03-06-2020,Item-04,Kopi Instant,1,5200,MGL
+03-06-2020,Item-04,Kopi Instant,2,5200,MGL
+03-06-2020,Item-04,Kopi Instant,1,5200,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+04-06-2020,Item-04,Kopi Instant,1,5200,MGL
+05-06-2020,Item-04,Kopi Instant,2,5200,MGL
+05-06-2020,Item-04,Kopi Instant,1,5200,MGL
+05-06-2020,Item-04,Kopi Instant,2,5200,MGL
+06-06-2020,Item-04,Kopi Instant,1,5200,MGL
+06-06-2020,Item-04,Kopi Instant,1,5200,MGL
+07-06-2020,Item-04,Kopi Instant,4,5200,MGL
+08-06-2020,Item-04,Kopi Instant,1,5200,MGL
+08-06-2020,Item-04,Kopi Instant,1,5200,MGL
+08-06-2020,Item-04,Kopi Instant,3,5200,MGL
+11-06-2020,Item-04,Kopi Instant,3,5200,MGL
+11-06-2020,Item-04,Kopi Instant,3,5200,MGL
+16-06-2020,Item-04,Kopi Instant,4,5200,MGL
+21-06-2020,Item-04,Kopi Instant,3,5200,MGL
+05-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+05-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+05-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+06-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+06-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+06-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+06-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+06-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+09-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+09-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+09-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+09-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+10-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+10-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+10-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+10-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+10-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+11-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+11-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+11-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+10-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+11-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+11-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+11-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+12-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+12-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+12-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+13-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+13-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+15-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+15-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+15-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+15-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+16-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+10-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+11-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+11-06-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+11-06-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-06-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+11-06-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-06-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+15-06-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+16-06-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+21-06-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+16-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+17-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+17-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+17-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+17-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+18-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+18-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+19-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+19-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+21-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+21-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+23-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+23-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+24-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+25-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+25-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+26-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+03-05-2020,Item-09,Roti Tawar,1,12500,MGL
+26-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+27-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+27-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+29-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+29-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+29-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+01-06-2020,Item-21,Shampoo Sachet,2,1000,MGL
+02-06-2020,Item-21,Shampoo Sachet,1,1000,MGL
+03-06-2020,Item-21,Shampoo Sachet,1,1000,MGL
+05-06-2020,Item-21,Shampoo Sachet,1,1000,MGL
+06-06-2020,Item-21,Shampoo Sachet,1,1000,MGL
+11-06-2020,Item-21,Shampoo Sachet,4,1000,MGL
+11-06-2020,Item-21,Shampoo Sachet,1,1000,MGL
+16-06-2020,Item-21,Shampoo Sachet,2,1000,MGL
+03-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+20-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+10-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+11-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+11-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+13-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+13-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+14-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+14-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+14-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+14-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+15-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+16-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+17-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+17-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+17-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+17-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+18-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+19-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+20-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+21-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+21-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+21-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+22-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+22-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+22-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+22-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+23-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+23-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+23-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+24-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+24-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+25-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+26-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+26-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+26-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+26-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+26-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+27-04-2020,Item-21,Shampoo Sachet,1,1000,MGL
+27-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+11-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+13-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+13-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+14-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+14-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+14-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+14-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+15-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+16-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+17-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+17-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+17-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+17-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+18-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+19-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+19-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+19-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+19-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+19-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+19-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+19-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+20-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+20-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+20-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+28-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+28-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+28-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+29-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+29-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+29-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+29-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+30-04-2020,Item-21,Shampoo Sachet,4,1000,MGL
+20-04-2020,Item-27,Bedak Bayi,18,25000,MGL
+20-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+20-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+20-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+21-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+21-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+21-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+22-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+22-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+22-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+22-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+23-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+23-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+23-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+24-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+24-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+25-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+25-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+25-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+25-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+25-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+25-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+26-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+26-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+26-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+26-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+26-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+27-04-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+27-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+28-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+28-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+28-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+29-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+29-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+29-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+29-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+30-04-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+30-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+30-04-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+30-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+30-04-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+01-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+01-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+01-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+01-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+02-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+02-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+02-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+02-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+03-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+03-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+04-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+04-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+04-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+05-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+05-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+05-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+05-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+05-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+06-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+06-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+06-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+06-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+06-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+07-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+07-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+07-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+07-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+07-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+07-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+07-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+07-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+09-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+09-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+09-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+09-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+10-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+10-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+10-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+10-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+11-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+11-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+11-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+12-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+12-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+12-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+13-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+13-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+14-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+14-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+14-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+14-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+14-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+15-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+15-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+15-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+15-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+16-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+16-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+17-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+17-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+17-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+17-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+18-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+18-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+19-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+19-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+21-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+21-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+23-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+23-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+24-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+25-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+25-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+26-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+26-05-2020,Item-02,Bawang Putih 200 gram,3,15000,MGL
+27-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+27-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+29-05-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+29-05-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+29-05-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+01-06-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+02-06-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+03-06-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+05-06-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+06-06-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+11-06-2020,Item-02,Bawang Putih 200 gram,4,15000,MGL
+11-06-2020,Item-02,Bawang Putih 200 gram,1,15000,MGL
+16-06-2020,Item-02,Bawang Putih 200 gram,2,15000,MGL
+11-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+12-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+12-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+12-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+12-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+12-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+13-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+14-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+14-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+14-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+14-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+14-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+15-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+15-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+15-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+16-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+16-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+16-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+16-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+16-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+16-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+16-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+16-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+19-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+19-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+19-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+19-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+25-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+29-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+06-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+07-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+08-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+08-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+08-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+08-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+09-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+09-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+09-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+09-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+13-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+13-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+13-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+13-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+13-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+14-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+14-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+14-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+14-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+14-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+17-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+17-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+17-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+17-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+17-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+18-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+18-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+18-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+18-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+18-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+18-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+19-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+19-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+19-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+21-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+21-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+21-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+21-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+22-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+23-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+23-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+23-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+23-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+23-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+23-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+23-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+23-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+23-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+24-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+24-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+25-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+25-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+26-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+26-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+26-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+29-05-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+30-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+30-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+30-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+30-05-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+31-05-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+31-05-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+01-06-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+02-06-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+02-06-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+02-06-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+03-06-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+03-06-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+03-06-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+04-06-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+04-06-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+05-06-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+05-06-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+05-06-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+06-06-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+06-06-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+07-06-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+08-06-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+08-06-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+08-06-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+30-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+30-04-2020,Item-21,Shampoo Sachet,2,1000,MGL
+30-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+30-04-2020,Item-21,Shampoo Sachet,3,1000,MGL
+01-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+01-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+01-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+01-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+02-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+02-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+02-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+02-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+03-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+03-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+04-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+04-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+04-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+05-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+05-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+05-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+05-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+05-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+06-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+06-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+06-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+06-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+06-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+07-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+09-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+09-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+09-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+09-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+10-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+10-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+10-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+10-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+11-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+11-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+11-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+12-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+12-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+12-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+13-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+13-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+14-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+15-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+15-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+15-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+15-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+23-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+24-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+25-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+25-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+26-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+26-05-2020,Item-21,Shampoo Sachet,3,1000,MGL
+27-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+27-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+29-05-2020,Item-21,Shampoo Sachet,1,1000,MGL
+29-05-2020,Item-21,Shampoo Sachet,4,1000,MGL
+29-05-2020,Item-21,Shampoo Sachet,2,1000,MGL
+01-06-2020,Item-21,Shampoo Sachet,2,1000,MGL
+02-06-2020,Item-21,Shampoo Sachet,1,1000,MGL
+03-06-2020,Item-21,Shampoo Sachet,1,1000,MGL
+05-06-2020,Item-21,Shampoo Sachet,1,1000,MGL
+06-06-2020,Item-21,Shampoo Sachet,1,1000,MGL
+11-06-2020,Item-21,Shampoo Sachet,4,1000,MGL
+11-06-2020,Item-21,Shampoo Sachet,1,1000,MGL
+16-06-2020,Item-21,Shampoo Sachet,2,1000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+09-05-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+10-05-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+10-05-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+10-05-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+10-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+11-05-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+12-05-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+12-05-2020,Item-26,Susu Bubuk 195g,9,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+15-05-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+15-05-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+16-05-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+17-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+17-05-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+18-05-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+18-05-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+24-05-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+25-05-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+26-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+27-05-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+27-05-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+02-06-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+03-06-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+06-06-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+11-06-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+16-04-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+16-04-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+16-04-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+16-04-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+16-04-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+16-04-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+16-04-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+16-04-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+17-04-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+17-04-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+17-04-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+17-04-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+17-04-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+17-04-2020,Item-26,Susu Bubuk 195g,9,45000,MGL
+17-04-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+17-04-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+17-04-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+27-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+27-04-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+04-05-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+04-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+04-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+04-05-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,12,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,12,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+13-05-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+13-05-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+13-05-2020,Item-26,Susu Bubuk 195g,12,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,12,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+15-05-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+15-05-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+15-05-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+15-05-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+15-05-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+15-05-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+16-05-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+16-05-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+17-05-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+17-05-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+17-05-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+17-05-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+17-05-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+18-05-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+18-05-2020,Item-26,Susu Bubuk 195g,9,45000,MGL
+20-05-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+20-05-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+20-05-2020,Item-26,Susu Bubuk 195g,9,45000,MGL
+21-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+21-05-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+21-05-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+21-05-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+21-05-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+23-05-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+23-05-2020,Item-26,Susu Bubuk 195g,9,45000,MGL
+23-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+23-05-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+23-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+23-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+24-05-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+25-05-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+26-05-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+26-05-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+26-05-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+27-05-2020,Item-26,Susu Bubuk 195g,12,45000,MGL
+27-05-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+28-05-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+28-05-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+11-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+11-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+11-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+12-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+12-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+12-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+03-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+20-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+10-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+11-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+11-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+13-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+13-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+14-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+14-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+14-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+14-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+15-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+16-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+17-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+17-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+17-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+17-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+18-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+21-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+21-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+21-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+23-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+23-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+23-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+24-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+24-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+26-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+26-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+26-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+26-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+26-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+27-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+27-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+28-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+28-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+28-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+29-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+29-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+29-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+29-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+01-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+01-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+01-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+01-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+02-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+02-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+02-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+02-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+03-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+03-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+04-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+04-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+04-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+05-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+05-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+05-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+05-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+05-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+06-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+06-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+06-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+06-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+06-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+09-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+09-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+09-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+09-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+10-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+10-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+10-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+10-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+11-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+11-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+11-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+12-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+12-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+12-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+13-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+13-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+15-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+15-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+15-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+15-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+16-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+16-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+17-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+17-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+17-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+17-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+18-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+18-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+19-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+19-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+21-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+21-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+23-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+23-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+24-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+25-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+25-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+26-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+26-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+27-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+27-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+29-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+29-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+29-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+01-06-2020,Item-07,Pembersih Lantai,2,12000,MGL
+02-06-2020,Item-07,Pembersih Lantai,1,12000,MGL
+03-06-2020,Item-07,Pembersih Lantai,1,12000,MGL
+05-06-2020,Item-07,Pembersih Lantai,1,12000,MGL
+06-06-2020,Item-07,Pembersih Lantai,1,12000,MGL
+11-06-2020,Item-07,Pembersih Lantai,4,12000,MGL
+11-06-2020,Item-07,Pembersih Lantai,1,12000,MGL
+16-06-2020,Item-07,Pembersih Lantai,2,12000,MGL
+03-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+20-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+10-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+11-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+11-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+13-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+13-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+14-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+14-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+14-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+14-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+15-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+16-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+17-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+17-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+17-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+17-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+18-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+19-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+20-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+21-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+21-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+21-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+22-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+23-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+23-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+23-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+24-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+24-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+25-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+26-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+26-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+26-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+26-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+26-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+27-04-2020,Item-07,Pembersih Lantai,1,12000,MGL
+27-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+28-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+28-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+28-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+29-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+29-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+29-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+29-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,4,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,2,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+30-04-2020,Item-07,Pembersih Lantai,3,12000,MGL
+01-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+01-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+01-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+01-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+02-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+02-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+02-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+02-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+03-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+03-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+04-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+04-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+04-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+05-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+05-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+05-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+05-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+05-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+06-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+06-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+06-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+06-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+06-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+07-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+09-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+09-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+09-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+09-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+10-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+10-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+10-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+10-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+11-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+11-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+11-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+12-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+12-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+12-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+13-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+13-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+14-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+15-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+15-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+15-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+15-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+16-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+16-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+17-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+17-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+17-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+17-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+18-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+18-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+19-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+19-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+21-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+21-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+23-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+23-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+24-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+25-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+25-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+26-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+26-05-2020,Item-07,Pembersih Lantai,3,12000,MGL
+27-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+27-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+29-05-2020,Item-07,Pembersih Lantai,1,12000,MGL
+29-05-2020,Item-07,Pembersih Lantai,4,12000,MGL
+29-05-2020,Item-07,Pembersih Lantai,2,12000,MGL
+01-06-2020,Item-07,Pembersih Lantai,2,12000,MGL
+02-06-2020,Item-07,Pembersih Lantai,1,12000,MGL
+03-06-2020,Item-07,Pembersih Lantai,1,12000,MGL
+05-06-2020,Item-07,Pembersih Lantai,1,12000,MGL
+06-06-2020,Item-07,Pembersih Lantai,1,12000,MGL
+11-06-2020,Item-07,Pembersih Lantai,4,12000,MGL
+11-06-2020,Item-07,Pembersih Lantai,1,12000,MGL
+16-06-2020,Item-07,Pembersih Lantai,2,12000,MGL
+10-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+10-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+11-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+11-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+11-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+11-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+12-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+13-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+13-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+13-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+14-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+14-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+14-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+14-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+21-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+21-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+21-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+14-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+14-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+15-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+15-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+16-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+16-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+16-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+16-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+16-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+16-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+16-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+17-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+17-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+17-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+17-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+17-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+18-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+18-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+18-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+21-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+21-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+22-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+22-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+22-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+22-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+22-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+22-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+22-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+23-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+23-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+23-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+23-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+23-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+23-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+24-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+24-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+24-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+24-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+24-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+26-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+26-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+26-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+26-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+26-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+26-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+27-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+27-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+28-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+28-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+28-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+28-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+28-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+28-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+28-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+01-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+01-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+01-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+01-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+04-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+04-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+04-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+04-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+05-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+05-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+05-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+05-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+05-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+05-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+06-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+06-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+06-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+06-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+06-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+06-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+08-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+09-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+09-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+09-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+09-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+10-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+10-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+10-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+10-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+11-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+11-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+11-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+11-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+11-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+12-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+12-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+12-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+12-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+13-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+13-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+13-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+14-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+14-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+14-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+14-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+14-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+14-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+14-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+15-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+15-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+15-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+15-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+16-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+16-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+17-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+17-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+17-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+17-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+18-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+18-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+18-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+18-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+18-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+18-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+19-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+19-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+19-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+20-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+20-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+21-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+21-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+21-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+21-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+21-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+23-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+23-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+23-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+23-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+24-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+25-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+25-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+26-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+26-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+27-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+27-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+28-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+29-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+29-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+29-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+29-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+30-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+30-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+30-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+31-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+01-06-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+02-06-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+02-06-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+03-06-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+04-06-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+05-06-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+05-06-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+06-06-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+08-06-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+08-06-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+11-06-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+11-06-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+16-06-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+19-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+20-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+21-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+22-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+22-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+22-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+23-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+23-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+24-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+25-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+10-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+10-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,2,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,3,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,1,2600,MGL
+11-04-2020,Item-05,Mi Goreng Instant,4,2600,MGL
+26-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+26-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+27-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+27-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+28-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+28-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+29-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+30-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+01-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+01-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+03-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+03-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+05-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+05-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+05-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+06-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+06-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+06-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+07-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+09-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+10-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+10-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+10-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+10-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+11-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+12-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+12-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+14-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+15-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+15-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+16-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+17-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+17-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+18-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+18-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+24-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000,MGL
+25-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+26-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+27-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+27-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+29-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+29-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000,MGL
+29-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+02-06-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+03-06-2020,Item-22,Minyak Goreng 1 Lt,4,16000,MGL
+06-06-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+11-06-2020,Item-22,Minyak Goreng 1 Lt,2,16000,MGL
+19-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+19-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+20-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+20-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+20-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+21-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+22-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+22-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+22-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+23-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+23-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+24-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+25-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+25-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+25-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+25-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+25-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+27-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+27-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+30-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+30-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+30-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+30-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+30-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+01-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+01-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+06-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+06-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+06-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+07-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+07-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+20-04-2020,Item-27,Bedak Bayi,3,25000,MGL
+07-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+07-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+07-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+09-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+10-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+10-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+10-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+10-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+11-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+12-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+12-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+14-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+15-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+15-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+16-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+17-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+17-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+18-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+18-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+24-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+25-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+26-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+27-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+27-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+29-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+29-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+29-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+02-06-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+03-06-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+06-06-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+11-06-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+14-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+16-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+16-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+16-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+16-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+16-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+16-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+16-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+16-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+17-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+17-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+17-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+17-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+17-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+17-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+17-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+17-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+17-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+26-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+27-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+27-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+03-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+04-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+04-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+04-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+04-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+06-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+06-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+06-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+06-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+06-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+06-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+07-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+13-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+13-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+13-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+14-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+14-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+14-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+14-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+14-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+14-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+14-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+14-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+15-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+15-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+15-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+15-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+15-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+15-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+16-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+16-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+17-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+17-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+17-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+17-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+17-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+18-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+18-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+20-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+20-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+20-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+21-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+21-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+21-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+21-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+21-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+23-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+23-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+23-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+23-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+23-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+23-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+24-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+25-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+26-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+26-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+26-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+27-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+27-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+28-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+28-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+29-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+29-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+29-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+29-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+29-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+29-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+30-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+30-05-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+30-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+31-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+01-06-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+02-06-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+02-06-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+28-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+29-04-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+05-05-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+06-05-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+03-06-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+03-06-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+03-06-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+04-06-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+05-06-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+05-06-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+05-06-2020,Item-23,Air Mineral Botol 500 ml,2,3000,MGL
+06-06-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+06-06-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+07-06-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+08-06-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+08-06-2020,Item-23,Air Mineral Botol 500 ml,1,3000,MGL
+08-06-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+11-06-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+11-06-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+16-06-2020,Item-23,Air Mineral Botol 500 ml,4,3000,MGL
+21-06-2020,Item-23,Air Mineral Botol 500 ml,3,3000,MGL
+14-05-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+16-04-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+16-04-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+16-04-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+16-04-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+16-04-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+16-04-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+16-04-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+16-04-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+17-04-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+17-04-2020,Item-24,Pengharum Ruangan,2,7000,MGL
+17-04-2020,Item-24,Pengharum Ruangan,2,7000,MGL
+17-04-2020,Item-24,Pengharum Ruangan,20,7000,MGL
+17-04-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+17-04-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+17-04-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+17-04-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+17-04-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,15,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+26-04-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+27-04-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+27-04-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+28-04-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+28-04-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+28-04-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+28-04-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+29-04-2020,Item-24,Pengharum Ruangan,20,7000,MGL
+29-04-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+29-04-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+29-04-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+29-04-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+29-04-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,10,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,20,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,2,7000,MGL
+04-05-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+04-05-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+04-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+04-05-2020,Item-24,Pengharum Ruangan,20,7000,MGL
+05-05-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+05-05-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+05-05-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+06-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+06-05-2020,Item-24,Pengharum Ruangan,7,7000,MGL
+06-05-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+06-05-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+06-05-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+06-05-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+07-05-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+13-05-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+13-05-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+13-05-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+14-05-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+14-05-2020,Item-24,Pengharum Ruangan,2,7000,MGL
+14-05-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+14-05-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+14-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+14-05-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+14-05-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+14-05-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+15-05-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+15-05-2020,Item-24,Pengharum Ruangan,15,7000,MGL
+15-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+15-05-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+15-05-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+15-05-2020,Item-24,Pengharum Ruangan,15,7000,MGL
+16-05-2020,Item-24,Pengharum Ruangan,10,7000,MGL
+16-05-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+17-05-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+17-05-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+17-05-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+17-05-2020,Item-24,Pengharum Ruangan,7,7000,MGL
+17-05-2020,Item-24,Pengharum Ruangan,10,7000,MGL
+18-05-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+18-05-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+20-05-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+20-05-2020,Item-24,Pengharum Ruangan,15,7000,MGL
+20-05-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+21-05-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+21-05-2020,Item-24,Pengharum Ruangan,7,7000,MGL
+21-05-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+21-05-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+21-05-2020,Item-24,Pengharum Ruangan,2,7000,MGL
+23-05-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+23-05-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+23-05-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+23-05-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+23-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+23-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+24-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+25-05-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+26-05-2020,Item-24,Pengharum Ruangan,15,7000,MGL
+26-05-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+26-05-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+27-05-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+27-05-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+28-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+28-05-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+29-05-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+29-05-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+29-05-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+29-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+29-05-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+29-05-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+30-05-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+30-05-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+30-05-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+31-05-2020,Item-24,Pengharum Ruangan,7,7000,MGL
+01-06-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+02-06-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+02-06-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+28-04-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+28-04-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+28-04-2020,Item-24,Pengharum Ruangan,20,7000,MGL
+28-04-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+28-04-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+28-04-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+29-04-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+29-04-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+29-04-2020,Item-24,Pengharum Ruangan,7,7000,MGL
+29-04-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+05-05-2020,Item-24,Pengharum Ruangan,2,7000,MGL
+05-05-2020,Item-24,Pengharum Ruangan,10,7000,MGL
+05-05-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+05-05-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+05-05-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+06-05-2020,Item-24,Pengharum Ruangan,2,7000,MGL
+03-06-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+03-06-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+03-06-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+04-06-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+05-06-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+05-06-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+05-06-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+06-06-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+06-06-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+07-06-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+08-06-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+08-06-2020,Item-24,Pengharum Ruangan,7,7000,MGL
+08-06-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+11-06-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+11-06-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+16-06-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+21-06-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+12-04-2020,Item-24,Pengharum Ruangan,10,7000,MGL
+12-04-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+12-04-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+12-04-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+12-04-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+15-04-2020,Item-24,Pengharum Ruangan,8,7000,MGL
+15-04-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+15-04-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+15-04-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+15-04-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+18-04-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+18-04-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+18-04-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+18-04-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+19-04-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+19-04-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+20-04-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+20-04-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+21-04-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+21-04-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+21-04-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+21-04-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+21-04-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+21-04-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+21-04-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+23-04-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+23-04-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+23-04-2020,Item-24,Pengharum Ruangan,14,7000,MGL
+23-04-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+23-04-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,1,22300,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-17,Obat Batuk,3,5000,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,4,22300,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,2,22300,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+20-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+12-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+24-04-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+24-04-2020,Item-24,Pengharum Ruangan,11,7000,MGL
+24-04-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+24-04-2020,Item-24,Pengharum Ruangan,17,7000,MGL
+24-04-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+30-04-2020,Item-24,Pengharum Ruangan,2,7000,MGL
+30-04-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+01-05-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+01-05-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+01-05-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+01-05-2020,Item-24,Pengharum Ruangan,7,7000,MGL
+01-05-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+01-05-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+01-05-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+01-05-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+02-05-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+02-05-2020,Item-24,Pengharum Ruangan,10,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,19,7000,MGL
+07-05-2020,Item-27,Bedak Bayi,5,25000,MGL
+02-05-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+02-05-2020,Item-24,Pengharum Ruangan,7,7000,MGL
+02-05-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+02-05-2020,Item-24,Pengharum Ruangan,16,7000,MGL
+02-05-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+02-05-2020,Item-24,Pengharum Ruangan,10,7000,MGL
+02-05-2020,Item-24,Pengharum Ruangan,1,7000,MGL
+02-05-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,15,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,9,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,5,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,3,7000,MGL
+11-05-2020,Item-24,Pengharum Ruangan,4,7000,MGL
+12-05-2020,Item-24,Pengharum Ruangan,12,7000,MGL
+12-05-2020,Item-24,Pengharum Ruangan,18,7000,MGL
+12-05-2020,Item-24,Pengharum Ruangan,6,7000,MGL
+12-05-2020,Item-24,Pengharum Ruangan,15,7000,MGL
+03-05-2020,Item-24,Pengharum Ruangan,13,7000,MGL
+14-05-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+16-04-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+16-04-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+16-04-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+16-04-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+16-04-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+16-04-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+16-04-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+16-04-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+17-04-2020,Item-25,Pembalut Wanita Size L,18,15000,MGL
+17-04-2020,Item-25,Pembalut Wanita Size L,7,15000,MGL
+17-04-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+17-04-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+17-04-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+17-04-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+17-04-2020,Item-25,Pembalut Wanita Size L,7,15000,MGL
+17-04-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+17-04-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,16,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+27-04-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+27-04-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,7,15000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,1,22300,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-17,Obat Batuk,3,5000,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,4,22300,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,2,22300,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+20-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+12-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,16,15000,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,8,15000,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+04-05-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+04-05-2020,Item-25,Pembalut Wanita Size L,8,15000,MGL
+04-05-2020,Item-25,Pembalut Wanita Size L,8,15000,MGL
+04-05-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+06-05-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+06-05-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+06-05-2020,Item-25,Pembalut Wanita Size L,7,15000,MGL
+06-05-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+06-05-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+06-05-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+07-05-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+13-05-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+13-05-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+13-05-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+14-05-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+14-05-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+14-05-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+14-05-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+14-05-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+14-05-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+14-05-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+14-05-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+15-05-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+15-05-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+15-05-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+15-05-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+15-05-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+15-05-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+16-05-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+16-05-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+17-05-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+17-05-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+17-05-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+17-05-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+17-05-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+18-05-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+18-05-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+20-05-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+20-05-2020,Item-25,Pembalut Wanita Size L,8,15000,MGL
+20-05-2020,Item-25,Pembalut Wanita Size L,4,15000,MGL
+21-05-2020,Item-25,Pembalut Wanita Size L,18,15000,MGL
+21-05-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+21-05-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+21-05-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+21-05-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+23-05-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+23-05-2020,Item-25,Pembalut Wanita Size L,16,15000,MGL
+23-05-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+23-05-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+23-05-2020,Item-25,Pembalut Wanita Size L,7,15000,MGL
+23-05-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+24-05-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+25-05-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+26-05-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+26-05-2020,Item-25,Pembalut Wanita Size L,4,15000,MGL
+26-05-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,1,22300,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-17,Obat Batuk,3,5000,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,4,22300,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,2,22300,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+20-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+12-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+27-05-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+27-05-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+28-05-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+28-05-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+29-05-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+29-05-2020,Item-25,Pembalut Wanita Size L,4,15000,MGL
+29-05-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+29-05-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+29-05-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+29-05-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+30-05-2020,Item-25,Pembalut Wanita Size L,4,15000,MGL
+30-05-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+30-05-2020,Item-25,Pembalut Wanita Size L,7,15000,MGL
+31-05-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+01-06-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+02-06-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+02-06-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,18,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,7,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,8,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,8,15000,MGL
+06-05-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+03-06-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+03-06-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+03-06-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+04-06-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+05-06-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+05-06-2020,Item-25,Pembalut Wanita Size L,7,15000,MGL
+05-06-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+06-06-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+06-06-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+07-06-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+08-06-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+08-06-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+08-06-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+11-06-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+11-06-2020,Item-25,Pembalut Wanita Size L,16,15000,MGL
+16-06-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+21-06-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+19-04-2020,Item-25,Pembalut Wanita Size L,16,15000,MGL
+19-04-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+20-04-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+20-04-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+20-04-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+21-04-2020,Item-25,Pembalut Wanita Size L,16,15000,MGL
+22-04-2020,Item-25,Pembalut Wanita Size L,4,15000,MGL
+22-04-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+22-04-2020,Item-25,Pembalut Wanita Size L,8,15000,MGL
+23-04-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+23-04-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+24-04-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+25-04-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+25-04-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+25-04-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+25-04-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+25-04-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+26-04-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+27-04-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+27-04-2020,Item-25,Pembalut Wanita Size L,8,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+28-04-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+29-04-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+30-04-2020,Item-25,Pembalut Wanita Size L,8,15000,MGL
+30-04-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+30-04-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+30-04-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+30-04-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+01-05-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+01-05-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+03-05-2020,Item-25,Pembalut Wanita Size L,7,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,16,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,18,15000,MGL
+05-05-2020,Item-25,Pembalut Wanita Size L,17,15000,MGL
+06-05-2020,Item-25,Pembalut Wanita Size L,1,15000,MGL
+06-05-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+06-05-2020,Item-25,Pembalut Wanita Size L,2,15000,MGL
+07-05-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+07-05-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+07-05-2020,Item-25,Pembalut Wanita Size L,4,15000,MGL
+07-05-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+07-05-2020,Item-25,Pembalut Wanita Size L,16,15000,MGL
+09-05-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+10-05-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+10-05-2020,Item-25,Pembalut Wanita Size L,16,15000,MGL
+10-05-2020,Item-25,Pembalut Wanita Size L,8,15000,MGL
+10-05-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+11-05-2020,Item-25,Pembalut Wanita Size L,7,15000,MGL
+12-05-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,1,22300,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+10-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-17,Obat Batuk,3,5000,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,3,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,4,22300,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,2,14000,MGL
+11-04-2020,Item-16,Balsem Putih 20 gram,2,22300,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500,MGL
+20-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+11-04-2020,Item-11,Sabun Cuci Piring,4,14000,MGL
+11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+12-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500,MGL
+12-05-2020,Item-25,Pembalut Wanita Size L,19,15000,MGL
+14-05-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+15-05-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+15-05-2020,Item-25,Pembalut Wanita Size L,3,15000,MGL
+16-05-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+17-05-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+17-05-2020,Item-25,Pembalut Wanita Size L,11,15000,MGL
+18-05-2020,Item-25,Pembalut Wanita Size L,13,15000,MGL
+18-05-2020,Item-25,Pembalut Wanita Size L,14,15000,MGL
+24-05-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+25-05-2020,Item-25,Pembalut Wanita Size L,20,15000,MGL
+26-05-2020,Item-25,Pembalut Wanita Size L,6,15000,MGL
+27-05-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+27-05-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+29-05-2020,Item-25,Pembalut Wanita Size L,15,15000,MGL
+29-05-2020,Item-25,Pembalut Wanita Size L,16,15000,MGL
+29-05-2020,Item-25,Pembalut Wanita Size L,10,15000,MGL
+02-06-2020,Item-25,Pembalut Wanita Size L,12,15000,MGL
+03-06-2020,Item-25,Pembalut Wanita Size L,9,15000,MGL
+06-06-2020,Item-25,Pembalut Wanita Size L,18,15000,MGL
+11-06-2020,Item-25,Pembalut Wanita Size L,5,15000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+30-05-2020,Item-26,Susu Bubuk 195g,9,45000,MGL
+30-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+30-05-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+31-05-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+01-06-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+02-06-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+02-06-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,9,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,9,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+03-06-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+03-06-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+03-06-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+04-06-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+05-06-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+05-06-2020,Item-26,Susu Bubuk 195g,12,45000,MGL
+05-06-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+06-06-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+06-06-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+07-06-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+08-06-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+08-06-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+08-06-2020,Item-26,Susu Bubuk 195g,12,45000,MGL
+11-06-2020,Item-26,Susu Bubuk 195g,12,45000,MGL
+11-06-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+16-06-2020,Item-26,Susu Bubuk 195g,10,45000,MGL
+21-06-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+19-04-2020,Item-26,Susu Bubuk 195g,12,45000,MGL
+20-04-2020,Item-26,Susu Bubuk 195g,3,45000,MGL
+20-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+20-04-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+21-04-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+22-04-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+22-04-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+22-04-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+23-04-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+23-04-2020,Item-26,Susu Bubuk 195g,9,45000,MGL
+24-04-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+25-04-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+25-04-2020,Item-26,Susu Bubuk 195g,6,45000,MGL
+25-04-2020,Item-26,Susu Bubuk 195g,11,45000,MGL
+25-04-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+25-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+26-04-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+27-04-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+27-04-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+28-04-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+29-04-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+30-04-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+30-04-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+30-04-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+30-04-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+30-04-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+01-05-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+01-05-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+03-05-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,17,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+05-05-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+06-05-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,19,45000,MGL
+07-05-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+09-05-2020,Item-26,Susu Bubuk 195g,9,45000,MGL
+10-05-2020,Item-26,Susu Bubuk 195g,15,45000,MGL
+10-05-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+10-05-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+10-05-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+11-05-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+12-05-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+12-05-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+14-05-2020,Item-26,Susu Bubuk 195g,14,45000,MGL
+15-05-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+15-05-2020,Item-26,Susu Bubuk 195g,7,45000,MGL
+16-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+17-05-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+17-05-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+18-05-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+18-05-2020,Item-26,Susu Bubuk 195g,13,45000,MGL
+24-05-2020,Item-26,Susu Bubuk 195g,18,45000,MGL
+25-05-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+26-05-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+27-05-2020,Item-26,Susu Bubuk 195g,20,45000,MGL
+27-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,4,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+29-05-2020,Item-26,Susu Bubuk 195g,8,45000,MGL
+02-06-2020,Item-26,Susu Bubuk 195g,16,45000,MGL
+03-06-2020,Item-26,Susu Bubuk 195g,1,45000,MGL
+06-06-2020,Item-26,Susu Bubuk 195g,2,45000,MGL
+11-06-2020,Item-26,Susu Bubuk 195g,5,45000,MGL
+14-05-2020,Item-33,Es Cream,2,5000,MGL
+16-04-2020,Item-33,Es Cream,2,5000,MGL
+16-04-2020,Item-33,Es Cream,8,5000,MGL
+16-04-2020,Item-33,Es Cream,8,5000,MGL
+16-04-2020,Item-33,Es Cream,10,5000,MGL
+16-04-2020,Item-33,Es Cream,20,5000,MGL
+16-04-2020,Item-33,Es Cream,12,5000,MGL
+16-04-2020,Item-33,Es Cream,11,5000,MGL
+16-04-2020,Item-33,Es Cream,12,5000,MGL
+17-04-2020,Item-33,Es Cream,17,5000,MGL
+17-04-2020,Item-33,Es Cream,9,5000,MGL
+17-04-2020,Item-33,Es Cream,17,5000,MGL
+17-04-2020,Item-33,Es Cream,8,5000,MGL
+17-04-2020,Item-33,Es Cream,4,5000,MGL
+17-04-2020,Item-33,Es Cream,1,5000,MGL
+17-04-2020,Item-33,Es Cream,20,5000,MGL
+17-04-2020,Item-33,Es Cream,12,5000,MGL
+17-04-2020,Item-33,Es Cream,13,5000,MGL
+26-04-2020,Item-33,Es Cream,6,5000,MGL
+26-04-2020,Item-33,Es Cream,6,5000,MGL
+26-04-2020,Item-33,Es Cream,12,5000,MGL
+26-04-2020,Item-33,Es Cream,9,5000,MGL
+26-04-2020,Item-33,Es Cream,3,5000,MGL
+26-04-2020,Item-33,Es Cream,19,5000,MGL
+26-04-2020,Item-33,Es Cream,11,5000,MGL
+26-04-2020,Item-33,Es Cream,16,5000,MGL
+26-04-2020,Item-33,Es Cream,4,5000,MGL
+26-04-2020,Item-33,Es Cream,1,5000,MGL
+26-04-2020,Item-33,Es Cream,6,5000,MGL
+27-04-2020,Item-33,Es Cream,20,5000,MGL
+27-04-2020,Item-33,Es Cream,10,5000,MGL
+28-04-2020,Item-33,Es Cream,20,5000,MGL
+28-04-2020,Item-33,Es Cream,8,5000,MGL
+28-04-2020,Item-33,Es Cream,10,5000,MGL
+28-04-2020,Item-33,Es Cream,5,5000,MGL
+29-04-2020,Item-33,Es Cream,8,5000,MGL
+29-04-2020,Item-33,Es Cream,14,5000,MGL
+29-04-2020,Item-33,Es Cream,2,5000,MGL
+29-04-2020,Item-33,Es Cream,3,5000,MGL
+29-04-2020,Item-33,Es Cream,17,5000,MGL
+29-04-2020,Item-33,Es Cream,19,5000,MGL
+03-05-2020,Item-33,Es Cream,14,5000,MGL
+03-05-2020,Item-33,Es Cream,9,5000,MGL
+03-05-2020,Item-33,Es Cream,9,5000,MGL
+03-05-2020,Item-33,Es Cream,7,5000,MGL
+03-05-2020,Item-33,Es Cream,7,5000,MGL
+03-05-2020,Item-33,Es Cream,12,5000,MGL
+03-05-2020,Item-33,Es Cream,19,5000,MGL
+03-05-2020,Item-33,Es Cream,16,5000,MGL
+03-05-2020,Item-33,Es Cream,20,5000,MGL
+04-05-2020,Item-33,Es Cream,12,5000,MGL
+21-04-2020,Item-27,Bedak Bayi,17,25000,MGL
+22-04-2020,Item-27,Bedak Bayi,5,25000,MGL
+22-04-2020,Item-27,Bedak Bayi,20,25000,MGL
+22-04-2020,Item-27,Bedak Bayi,18,25000,MGL
+23-04-2020,Item-27,Bedak Bayi,15,25000,MGL
+23-04-2020,Item-27,Bedak Bayi,2,25000,MGL
+24-04-2020,Item-27,Bedak Bayi,10,25000,MGL
+25-04-2020,Item-27,Bedak Bayi,2,25000,MGL
+25-04-2020,Item-27,Bedak Bayi,1,25000,MGL
+25-04-2020,Item-27,Bedak Bayi,17,25000,MGL
+25-04-2020,Item-27,Bedak Bayi,3,25000,MGL
+25-04-2020,Item-27,Bedak Bayi,3,25000,MGL
+26-04-2020,Item-27,Bedak Bayi,11,25000,MGL
+26-04-2020,Item-27,Bedak Bayi,19,25000,MGL
+27-04-2020,Item-27,Bedak Bayi,2,25000,MGL
+27-04-2020,Item-27,Bedak Bayi,18,25000,MGL
+28-04-2020,Item-27,Bedak Bayi,10,25000,MGL
+28-04-2020,Item-27,Bedak Bayi,11,25000,MGL
+29-04-2020,Item-27,Bedak Bayi,9,25000,MGL
+29-04-2020,Item-27,Bedak Bayi,13,25000,MGL
+30-04-2020,Item-27,Bedak Bayi,17,25000,MGL
+30-04-2020,Item-27,Bedak Bayi,1,25000,MGL
+30-04-2020,Item-27,Bedak Bayi,18,25000,MGL
+30-04-2020,Item-27,Bedak Bayi,16,25000,MGL
+30-04-2020,Item-27,Bedak Bayi,9,25000,MGL
+01-05-2020,Item-27,Bedak Bayi,19,25000,MGL
+01-05-2020,Item-27,Bedak Bayi,11,25000,MGL
+25-06-2020,Item-12,Beras Pulen 5 kg,3,63000,MGL
+24-06-2020,Item-12,Beras Pulen 5 kg,4,63000,MGL
+23-06-2020,Item-12,Beras Pulen 5 kg,3,63000,MGL
+22-06-2020,Item-12,Beras Pulen 5 kg,4,63000,MGL
+21-06-2020,Item-12,Beras Pulen 5 kg,3,63000,MGL
+26-06-2020,Item-12,Beras Pulen 5 kg,4,63000,MGL
+27-06-2020,Item-12,Beras Pulen 5 kg,3,63000,MGL
+28-06-2020,Item-12,Beras Pulen 5 kg,4,63000,MGL
+29-06-2020,Item-12,Beras Pulen 5 kg,3,63000,MGL
+30-06-2020,Item-12,Beras Pulen 5 kg,4,63000,MGL
+19-04-2020,Item-12,Beras Pulen 5 kg,3,63000,MGL
+18-04-2020,Item-12,Beras Pulen 5 kg,4,63000,MGL
+03-05-2020,Item-27,Bedak Bayi,8,25000,MGL
+03-05-2020,Item-27,Bedak Bayi,15,25000,MGL
+05-05-2020,Item-27,Bedak Bayi,9,25000,MGL
+05-05-2020,Item-27,Bedak Bayi,3,25000,MGL
+05-05-2020,Item-27,Bedak Bayi,4,25000,MGL
+06-05-2020,Item-27,Bedak Bayi,12,25000,MGL
+06-05-2020,Item-27,Bedak Bayi,3,25000,MGL
+06-05-2020,Item-27,Bedak Bayi,16,25000,MGL
+07-05-2020,Item-27,Bedak Bayi,2,25000,MGL
+07-05-2020,Item-27,Bedak Bayi,2,25000,MGL
+07-05-2020,Item-27,Bedak Bayi,13,25000,MGL
+07-05-2020,Item-27,Bedak Bayi,6,25000,MGL
+09-05-2020,Item-27,Bedak Bayi,7,25000,MGL
+10-05-2020,Item-27,Bedak Bayi,12,25000,MGL
+10-05-2020,Item-27,Bedak Bayi,11,25000,MGL
+10-05-2020,Item-27,Bedak Bayi,2,25000,MGL
+10-05-2020,Item-27,Bedak Bayi,13,25000,MGL
+11-05-2020,Item-27,Bedak Bayi,19,25000,MGL
+12-05-2020,Item-27,Bedak Bayi,13,25000,MGL
+12-05-2020,Item-27,Bedak Bayi,4,25000,MGL
+14-05-2020,Item-27,Bedak Bayi,20,25000,MGL
+15-05-2020,Item-27,Bedak Bayi,3,25000,MGL
+15-05-2020,Item-27,Bedak Bayi,18,25000,MGL
+16-05-2020,Item-27,Bedak Bayi,1,25000,MGL
+17-05-2020,Item-27,Bedak Bayi,3,25000,MGL
+17-05-2020,Item-27,Bedak Bayi,2,25000,MGL
+18-05-2020,Item-27,Bedak Bayi,11,25000,MGL
+18-05-2020,Item-27,Bedak Bayi,14,25000,MGL
+24-05-2020,Item-27,Bedak Bayi,6,25000,MGL
+25-05-2020,Item-27,Bedak Bayi,17,25000,MGL
+26-05-2020,Item-27,Bedak Bayi,19,25000,MGL
+27-05-2020,Item-27,Bedak Bayi,15,25000,MGL
+27-05-2020,Item-27,Bedak Bayi,16,25000,MGL
+29-05-2020,Item-27,Bedak Bayi,15,25000,MGL
+29-05-2020,Item-27,Bedak Bayi,15,25000,MGL
+29-05-2020,Item-27,Bedak Bayi,2,25000,MGL
+02-06-2020,Item-27,Bedak Bayi,16,25000,MGL
+03-06-2020,Item-27,Bedak Bayi,5,25000,MGL
+06-06-2020,Item-27,Bedak Bayi,4,25000,MGL
+11-06-2020,Item-27,Bedak Bayi,7,25000,MGL
+19-04-2020,Item-27,Bedak Bayi,19,25000,MGL
+19-04-2020,Item-27,Bedak Bayi,15,25000,MGL
+20-04-2020,Item-27,Bedak Bayi,4,25000,MGL
+20-04-2020,Item-27,Bedak Bayi,14,25000,MGL
+20-04-2020,Item-27,Bedak Bayi,17,25000,MGL
+21-04-2020,Item-27,Bedak Bayi,18,25000,MGL
+22-04-2020,Item-27,Bedak Bayi,5,25000,MGL
+22-04-2020,Item-27,Bedak Bayi,10,25000,MGL
+22-04-2020,Item-27,Bedak Bayi,14,25000,MGL
+23-04-2020,Item-27,Bedak Bayi,15,25000,MGL
+23-04-2020,Item-27,Bedak Bayi,20,25000,MGL
